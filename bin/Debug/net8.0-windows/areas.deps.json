@@ -10,7 +10,8 @@
         "dependencies": {
           "circulo": "1.0.0",
           "cuadrado": "1.0.0",
-          "rectangulo": "1.0.0"
+          "rectangulo": "1.0.0",
+          "triangulo": "1.0.0"
         },
         "runtime": {
           "areas.dll": {}
@@ -39,6 +40,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "triangulo/1.0.0": {
+        "runtime": {
+          "triangulo.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -59,6 +68,11 @@
       "sha512": ""
     },
     "rectangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "triangulo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

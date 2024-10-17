@@ -69,5 +69,11 @@ namespace areas
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            triangulo.triangulo nuevoFormulario = new triangulo.triangulo();
+            nuevoFormulario.Show();
+        }
     }
 }

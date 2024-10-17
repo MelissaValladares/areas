@@ -71,3 +71,9 @@ C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Model
 C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\obj\Debug\net8.0-windows\areas.pdb
 C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\obj\Debug\net8.0-windows\areas.genruntimeconfig.cache
 C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\obj\Debug\net8.0-windows\ref\areas.dll
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\obj\Debug\net8.0-windows\areas.sourcelink.json
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\bin\Debug\net8.0-windows\triangulo.deps.json
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\bin\Debug\net8.0-windows\triangulo.runtimeconfig.json
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\bin\Debug\net8.0-windows\triangulo.exe
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\bin\Debug\net8.0-windows\triangulo.dll
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\bin\Debug\net8.0-windows\triangulo.pdb

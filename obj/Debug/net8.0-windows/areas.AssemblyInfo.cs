@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("areas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+def38786051c5c9c06a0e33e31fec51ab2b1f740")]
 [assembly: System.Reflection.AssemblyProductAttribute("areas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("areas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

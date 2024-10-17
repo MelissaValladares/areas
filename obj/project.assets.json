@@ -40,6 +40,19 @@
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WindowsForms"
         ]
+      },
+      "triangulo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/triangulo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/triangulo.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
       }
     }
   },
@@ -58,13 +71,19 @@
       "type": "project",
       "path": "../rectangulo/rectangulo.csproj",
       "msbuildProject": "../rectangulo/rectangulo.csproj"
+    },
+    "triangulo/1.0.0": {
+      "type": "project",
+      "path": "../triangulo/triangulo.csproj",
+      "msbuildProject": "../triangulo/triangulo.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
       "circulo >= 1.0.0",
       "cuadrado >= 1.0.0",
-      "rectangulo >= 1.0.0"
+      "rectangulo >= 1.0.0",
+      "triangulo >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -102,6 +121,9 @@
             },
             "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\rectangulo\\rectangulo.csproj": {
               "projectPath": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\rectangulo\\rectangulo.csproj"
+            },
+            "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\triangulo\\triangulo.csproj": {
+              "projectPath": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\triangulo\\triangulo.csproj"
             }
           }
         }

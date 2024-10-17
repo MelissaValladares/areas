@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "circulo", "..\circulo\circu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rectangulo", "..\rectangulo\rectangulo.csproj", "{30D5D6F6-8D75-4B80-8FE4-699D5D0D285E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "triangulo", "..\triangulo\triangulo.csproj", "{05B8B579-9BBE-45C9-96A7-EB8B36FDE6AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{30D5D6F6-8D75-4B80-8FE4-699D5D0D285E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30D5D6F6-8D75-4B80-8FE4-699D5D0D285E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30D5D6F6-8D75-4B80-8FE4-699D5D0D285E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B8B579-9BBE-45C9-96A7-EB8B36FDE6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B8B579-9BBE-45C9-96A7-EB8B36FDE6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B8B579-9BBE-45C9-96A7-EB8B36FDE6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B8B579-9BBE-45C9-96A7-EB8B36FDE6AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
