@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\areasAct\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{73E1BBC5-CB01-4F13-BF4E-18970DE45E06}|areas.csproj|c:\\users\\mel_v\\onedrive\\documentos\\universidad\\octavo\\desarrollo basado en modelos\\trabajos en visual studio\\areasact\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E1BBC5-CB01-4F13-BF4E-18970DE45E06}|areas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770D93BA-D23E-45F0-B2C4-FE9F679B8BCE}|..\\cuadrado\\cuadrado.csproj|c:\\users\\mel_v\\onedrive\\documentos\\universidad\\octavo\\desarrollo basado en modelos\\trabajos en visual studio\\cuadrado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D5D6F6-8D75-4B80-8FE4-699D5D0D285E}|..\\rectangulo\\rectangulo.csproj|c:\\users\\mel_v\\onedrive\\documentos\\universidad\\octavo\\desarrollo basado en modelos\\trabajos en visual studio\\rectangulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B8B579-9BBE-45C9-96A7-EB8B36FDE6AA}|..\\triangulo\\triangulo.csproj|c:\\users\\mel_v\\onedrive\\documentos\\universidad\\octavo\\desarrollo basado en modelos\\trabajos en visual studio\\triangulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B8B579-9BBE-45C9-96A7-EB8B36FDE6AA}|..\\triangulo\\triangulo.csproj|c:\\users\\mel_v\\onedrive\\documentos\\universidad\\octavo\\desarrollo basado en modelos\\trabajos en visual studio\\triangulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73E1BBC5-CB01-4F13-BF4E-18970DE45E06}|areas.csproj|C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\areasAct\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{73E1BBC5-CB01-4F13-BF4E-18970DE45E06}|areas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -10,20 +26,10 @@
       "AbsoluteMoniker": "D:0:0:{63BEE814-A682-4D63-A9C6-B5B1693F1C7C}|..\\circulo\\circulo.csproj|c:\\users\\mel_v\\onedrive\\documentos\\universidad\\octavo\\desarrollo basado en modelos\\trabajos en visual studio\\circulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73E1BBC5-CB01-4F13-BF4E-18970DE45E06}|areas.csproj|c:\\users\\mel_v\\onedrive\\documentos\\universidad\\octavo\\desarrollo basado en modelos\\trabajos en visual studio\\areasact\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73E1BBC5-CB01-4F13-BF4E-18970DE45E06}|areas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30D5D6F6-8D75-4B80-8FE4-699D5D0D285E}|..\\rectangulo\\rectangulo.csproj|c:\\users\\mel_v\\onedrive\\documentos\\universidad\\octavo\\desarrollo basado en modelos\\trabajos en visual studio\\rectangulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63BEE814-A682-4D63-A9C6-B5B1693F1C7C}|..\\circulo\\circulo.csproj|c:\\users\\mel_v\\onedrive\\documentos\\universidad\\octavo\\desarrollo basado en modelos\\trabajos en visual studio\\circulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30D5D6F6-8D75-4B80-8FE4-699D5D0D285E}|..\\rectangulo\\rectangulo.csproj|c:\\users\\mel_v\\onedrive\\documentos\\universidad\\octavo\\desarrollo basado en modelos\\trabajos en visual studio\\rectangulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{770D93BA-D23E-45F0-B2C4-FE9F679B8BCE}|..\\cuadrado\\cuadrado.csproj|c:\\users\\mel_v\\onedrive\\documentos\\universidad\\octavo\\desarrollo basado en modelos\\trabajos en visual studio\\cuadrado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{770D93BA-D23E-45F0-B2C4-FE9F679B8BCE}|..\\cuadrado\\cuadrado.csproj|c:\\users\\mel_v\\onedrive\\documentos\\universidad\\octavo\\desarrollo basado en modelos\\trabajos en visual studio\\cuadrado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -36,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,44 +50,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\triangulo\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\triangulo\\Form1.cs",
+              "ToolTip": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\triangulo\\Form1.cs",
+              "RelativeToolTip": "..\\triangulo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:25:35.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\triangulo\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\triangulo\\Form1.cs",
+              "ToolTip": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\triangulo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\triangulo\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:25:29.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\rectangulo\\Form1.cs",
               "RelativeDocumentMoniker": "..\\rectangulo\\Form1.cs",
               "ToolTip": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\rectangulo\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\rectangulo\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T03:01:03.096Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-17T03:01:03.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\cuadrado\\Form1.cs",
               "RelativeDocumentMoniker": "..\\cuadrado\\Form1.cs",
               "ToolTip": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\cuadrado\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\cuadrado\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T23:53:37.145Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-30T23:53:37.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\areasAct\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\areasAct\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T23:51:46.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\rectangulo\\Form1.cs",
               "RelativeDocumentMoniker": "..\\rectangulo\\Form1.cs",
@@ -89,12 +117,11 @@
               "RelativeToolTip": "..\\rectangulo\\Form1.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:44:57.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T00:44:57.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\circulo\\Form1.cs",
               "RelativeDocumentMoniker": "..\\circulo\\Form1.cs",
@@ -107,31 +134,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\areasAct\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\areasAct\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T23:45:33.561Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-30T23:45:33.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\circulo\\Form1.cs",
               "RelativeDocumentMoniker": "..\\circulo\\Form1.cs",
               "ToolTip": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\circulo\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\circulo\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:06:53.438Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-17T01:06:53.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\cuadrado\\Form1.cs",
               "RelativeDocumentMoniker": "..\\cuadrado\\Form1.cs",
@@ -139,8 +164,7 @@
               "RelativeToolTip": "..\\cuadrado\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:36:20.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T00:36:20.735Z"
             }
           ]
         }
