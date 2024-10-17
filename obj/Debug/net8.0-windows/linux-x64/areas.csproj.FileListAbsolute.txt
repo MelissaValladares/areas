@@ -1,0 +1,8 @@
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areas\obj\Debug\net8.0-windows\linux-x64\areas.csproj.AssemblyReference.cache
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areas\obj\Debug\net8.0-windows\linux-x64\areas.Form1.resources
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areas\obj\Debug\net8.0-windows\linux-x64\areas.Properties.Resources.resources
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areas\obj\Debug\net8.0-windows\linux-x64\areas.csproj.GenerateResource.cache
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areas\obj\Debug\net8.0-windows\linux-x64\areas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areas\obj\Debug\net8.0-windows\linux-x64\areas.AssemblyInfoInputs.cache
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areas\obj\Debug\net8.0-windows\linux-x64\areas.AssemblyInfo.cs
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areas\obj\Debug\net8.0-windows\linux-x64\areas.csproj.CoreCompileInputs.cache

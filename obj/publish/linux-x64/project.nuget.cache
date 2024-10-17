@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Md1jPvFFxA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\areas\\areas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mel_v\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.8\\microsoft.netcore.app.host.linux-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

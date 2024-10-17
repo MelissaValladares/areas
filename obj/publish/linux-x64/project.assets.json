@@ -1,0 +1,233 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "circulo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/circulo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/circulo.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "cuadrado/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/cuadrado.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/cuadrado.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "rectangulo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/rectangulo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/rectangulo.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "triangulo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/triangulo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/triangulo.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    },
+    "net8.0-windows7.0/linux-x64": {
+      "circulo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/circulo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/circulo.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "cuadrado/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/cuadrado.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/cuadrado.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "rectangulo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/rectangulo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/rectangulo.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "triangulo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/triangulo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/triangulo.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "circulo/1.0.0": {
+      "type": "project",
+      "path": "../circulo/circulo.csproj",
+      "msbuildProject": "../circulo/circulo.csproj"
+    },
+    "cuadrado/1.0.0": {
+      "type": "project",
+      "path": "../cuadrado/cuadrado.csproj",
+      "msbuildProject": "../cuadrado/cuadrado.csproj"
+    },
+    "rectangulo/1.0.0": {
+      "type": "project",
+      "path": "../rectangulo/rectangulo.csproj",
+      "msbuildProject": "../rectangulo/rectangulo.csproj"
+    },
+    "triangulo/1.0.0": {
+      "type": "project",
+      "path": "../triangulo/triangulo.csproj",
+      "msbuildProject": "../triangulo/triangulo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "circulo >= 1.0.0",
+      "cuadrado >= 1.0.0",
+      "rectangulo >= 1.0.0",
+      "triangulo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mel_v\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\areas\\areas.csproj",
+      "projectName": "areas",
+      "projectPath": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\areas\\areas.csproj",
+      "packagesPath": "C:\\Users\\mel_v\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\areas\\obj\\publish\\linux-x64\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mel_v\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\circulo\\circulo.csproj": {
+              "projectPath": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\circulo\\circulo.csproj"
+            },
+            "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\cuadrado\\cuadrado.csproj": {
+              "projectPath": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\cuadrado\\cuadrado.csproj"
+            },
+            "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\rectangulo\\rectangulo.csproj": {
+              "projectPath": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\rectangulo\\rectangulo.csproj"
+            },
+            "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\triangulo\\triangulo.csproj": {
+              "projectPath": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\triangulo\\triangulo.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[8.0.8, 8.0.8]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "linux-x64": {
+        "#import": []
+      }
+    }
+  }
+}
