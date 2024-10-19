@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rectangulo", "..\rectangulo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "triangulo", "..\triangulo\triangulo.csproj", "{05B8B579-9BBE-45C9-96A7-EB8B36FDE6AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trapecio", "..\trapecio\trapecio.csproj", "{07E595A8-4A84-4A2E-A639-9BC89F4C94F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{05B8B579-9BBE-45C9-96A7-EB8B36FDE6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05B8B579-9BBE-45C9-96A7-EB8B36FDE6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05B8B579-9BBE-45C9-96A7-EB8B36FDE6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E595A8-4A84-4A2E-A639-9BC89F4C94F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E595A8-4A84-4A2E-A639-9BC89F4C94F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E595A8-4A84-4A2E-A639-9BC89F4C94F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E595A8-4A84-4A2E-A639-9BC89F4C94F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

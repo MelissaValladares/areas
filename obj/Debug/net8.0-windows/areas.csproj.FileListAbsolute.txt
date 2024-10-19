@@ -77,3 +77,8 @@ C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Model
 C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\bin\Debug\net8.0-windows\triangulo.exe
 C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\bin\Debug\net8.0-windows\triangulo.dll
 C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\bin\Debug\net8.0-windows\triangulo.pdb
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\bin\Debug\net8.0-windows\trapecio.deps.json
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\bin\Debug\net8.0-windows\trapecio.runtimeconfig.json
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\bin\Debug\net8.0-windows\trapecio.exe
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\bin\Debug\net8.0-windows\trapecio.dll
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\areasAct\bin\Debug\net8.0-windows\trapecio.pdb

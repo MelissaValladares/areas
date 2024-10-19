@@ -41,6 +41,19 @@
           "Microsoft.WindowsDesktop.App.WindowsForms"
         ]
       },
+      "trapecio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/trapecio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/trapecio.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
       "triangulo/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -72,6 +85,11 @@
       "path": "../rectangulo/rectangulo.csproj",
       "msbuildProject": "../rectangulo/rectangulo.csproj"
     },
+    "trapecio/1.0.0": {
+      "type": "project",
+      "path": "../trapecio/trapecio.csproj",
+      "msbuildProject": "../trapecio/trapecio.csproj"
+    },
     "triangulo/1.0.0": {
       "type": "project",
       "path": "../triangulo/triangulo.csproj",
@@ -83,6 +101,7 @@
       "circulo >= 1.0.0",
       "cuadrado >= 1.0.0",
       "rectangulo >= 1.0.0",
+      "trapecio >= 1.0.0",
       "triangulo >= 1.0.0"
     ]
   },
@@ -121,6 +140,9 @@
             },
             "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\rectangulo\\rectangulo.csproj": {
               "projectPath": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\rectangulo\\rectangulo.csproj"
+            },
+            "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\trapecio\\trapecio.csproj": {
+              "projectPath": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\trapecio\\trapecio.csproj"
             },
             "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\triangulo\\triangulo.csproj": {
               "projectPath": "C:\\Users\\mel_v\\OneDrive\\Documentos\\Universidad\\Octavo\\Desarrollo Basado en Modelos\\Trabajos en Visual Studio\\triangulo\\triangulo.csproj"
